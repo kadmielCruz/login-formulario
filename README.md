@@ -4,4 +4,4 @@
 https://www.youtube.com/watch?v=MkXuQ9CcHqU&ab_channel=GirlCoding
 
 
-💻  projeto concluido :https://midias-sociais-le7z5vifw.vercel.app/
+💻  projeto concluido :https://kadmielcruz.github.io/login-formulario/
